@@ -1,4 +1,4 @@
-name: Poki App Test .msi Version
+name: Pake Apps
 
 env:
   NODE_VERSION: "22"
